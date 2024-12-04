@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "Antsomi",
+    "headerTitle": "Antsomi",
+    "headerColor": "#4f34eb",
+    "textColor": "white",
+    "statusBarColor": "#4f34eb",
+    "leftButton": "back",
+    "statusBar": "normal",
+    "actionBarHidden": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": []
+}
