@@ -1,17 +1,15 @@
 {
   "app": {
-    "title": "Antsomi",
-    "headerTitle": "Antsomi",
-    "headerColor": "#4f34eb",
+    "title": "Highlands",
+    "headerTitle": "Highlands",
+    "headerColor": "#1843EF",
     "textColor": "white",
-    "statusBarColor": "#4f34eb",
     "leftButton": "back",
     "statusBar": "normal",
     "actionBarHidden": false,
     "hideAndroidBottomNavigationBar": false,
     "hideIOSSafeAreaBottom": false
   },
-  "debug": false,
   "listCSS": [],
   "listSyncJS": [],
   "listAsyncJS": []
